@@ -1,0 +1,8 @@
+2026-02-06 09:35:41 | GUARDAR | La edad debe estar entre 1 y 120 | C:\xampp\htdocs\work\Gestor_de_Alumnos_MVC+PDO+MySQL\app\Controladores\ControladorAlumnos.php | 112
+2026-02-06 09:38:50 | GUARDAR | SQLSTATE[42S02]: Base table or view not found: 1146 Table 'centro.alumno' doesn't exist | C:\xampp\htdocs\work\Gestor_de_Alumnos_MVC+PDO+MySQL\app\Modelos\RepositorioAlumnos.php | 24
+2026-02-06 10:01:38 | LISTAR | SQLSTATE[42S02]: Base table or view not found: 1146 Table 'centro.alumno' doesn't exist | C:\xampp\htdocs\work\Gestor_de_Alumnos_MVC+PDO+MySQL\app\Modelos\RepositorioAlumnos.php | 37
+2026-02-06 10:01:41 | LISTAR | SQLSTATE[42S02]: Base table or view not found: 1146 Table 'centro.alumno' doesn't exist | C:\xampp\htdocs\work\Gestor_de_Alumnos_MVC+PDO+MySQL\app\Modelos\RepositorioAlumnos.php | 37
+2026-02-06 10:01:48 | GUARDAR | SQLSTATE[42S02]: Base table or view not found: 1146 Table 'centro.alumno' doesn't exist | C:\xampp\htdocs\work\Gestor_de_Alumnos_MVC+PDO+MySQL\app\Modelos\RepositorioAlumnos.php | 24
+2026-02-06 10:02:00 | GUARDAR | SQLSTATE[42S02]: Base table or view not found: 1146 Table 'centro.alumno' doesn't exist | C:\xampp\htdocs\work\Gestor_de_Alumnos_MVC+PDO+MySQL\app\Modelos\RepositorioAlumnos.php | 24
+2026-02-06 10:02:03 | GUARDAR | SQLSTATE[42S02]: Base table or view not found: 1146 Table 'centro.alumno' doesn't exist | C:\xampp\htdocs\work\Gestor_de_Alumnos_MVC+PDO+MySQL\app\Modelos\RepositorioAlumnos.php | 24
+2026-02-06 10:02:05 | GUARDAR | SQLSTATE[42S02]: Base table or view not found: 1146 Table 'centro.alumno' doesn't exist | C:\xampp\htdocs\work\Gestor_de_Alumnos_MVC+PDO+MySQL\app\Modelos\RepositorioAlumnos.php | 24
